@@ -1,0 +1,8 @@
+.collection-scope{
+  border: none !important;
+  border-bottom: none !important;
+  font-size: 1.2rem;
+}
+.card{
+  min-height: 650px !important;
+}
